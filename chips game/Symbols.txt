@@ -1,0 +1,29 @@
+## Symbols
+'''
+Tiles
+'w', '1', '2', '3', '4' - Impassable Tile
+'.' - Passable Tile
+'E' - Exit               
+'c' - Chips
+'g' - Green Key
+'G' - Green Door
+'r' - Red Key
+'R' - Red Door
+'b' - Blue Key
+'B' - Blue Door
+'y' - Yellow Key
+'Y' - Yellow Door
+']', 'F', '(', ')', '[' - Fire Tile
+'T', '5', '6', '7', '8' - Water Tile
+'>', '<', 'u', 'd' - Slide Tile
+'z' - Thief Tile
+
+Elemets
+'t' - Water Immunity
+'f' - Fire Immunity
+
+Sprites
+'a' - Player
+'N', 'n', '+', '-', 'M', 'm' - Enemy
+
+'''
